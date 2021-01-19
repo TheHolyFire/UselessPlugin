@@ -1,0 +1,15 @@
+name: UselessPlugin
+version: 0.0.1
+main: holyfire.uselessplugin.UselessPlugin
+api-version: 1.16
+description: NOTHING
+
+commands:
+  useless:
+    description: Its Useless
+    usage: /us useless
+    permission: useless.useless
+  help:
+    description: it helps you
+    usage: /us help
+    permission: useless.help
